@@ -1,1 +1,4 @@
+# Response on The Freudian Robot: Digital Media and the Future of the Unconscious
+
+"Do human beings become masters of their machines, or their slaves?", this is a question brought up in the article, which is very debatebal.In the article, the author discusses this topic by citing the example of the dialogue between Confucius' disciple Zigong and the old farmer in "Zhuangzi" (I am glad that the article mentions the ancient Chinese wisdom). The starting point of Zigong's idea is different from that of the old farmer: Zigong takes the view of productivity (a kind of materialism-like idea), where the productivity of human beings would be significantly increased if an automated machine could help or even replace them in farming, while the old farmer takes the view of ethics. He believes that if a person does his/her work in the manner of a machine lets his/her mind run like a machine, which eventually let him/her lose innocence.
 
