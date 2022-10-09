@@ -11,11 +11,19 @@ What if in the end we make it really cheesy and let them sing a song together ab
 
 # CHARACTERS (could be reduced as needed):
 Shrek 
+
 Donkey 
+
 Dragon 
-Gingerbread man 
+
+Gingerbread man
+
 Fiona
+
 Lord Farquaad
+
 Prince Charming
+
 Puss in boots 
+
 That one witch that gave him the potion? Could she be involved in this story somehow, maybe he went to her for help which caused a problem? 
