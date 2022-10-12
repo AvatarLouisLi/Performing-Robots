@@ -8,4 +8,4 @@ As a Social Science student, I tend to relate this to the idea of Social Constru
 Thus I wonder, when robots become very similar to humans (like those androids in Detroit: Become Human), will human consider them more human than those humans who "lack humanity"? While this is remain debateable, for now, we may think more about how to make robots more human-like, not only from the appearance aspect, but also from the mentality aspect.
 
 
-! [this is the photo](1.jpg)
+![this is the photo](1.jpg)
