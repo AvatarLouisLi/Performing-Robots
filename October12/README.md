@@ -6,3 +6,6 @@ The author also put forward a very interesting point of view, which is "personal
 As a Social Science student, I tend to relate this to the idea of Social Construction. We tend to label things that are "vibrant" and "energetic" as "human", and this tradition emerges after Renaissance. In constrast, those that are "cold" and "numb" are labeled as "inhuman", which in the conext that we discussed, are labeled as "robots". In this way, we can see that in social construction, robots are still synonymous with words such as "numbness". Therefore, a peculiar experience arises when the robot acquires a human's characteristics. 
 
 Thus I wonder, when robots become very similar to humans (like those androids in Detroit: Become Human), will human consider them more human than those humans who "lack humanity"? While this is remain debateable, for now, we may think more about how to make robots more human-like, not only from the appearance aspect, but also from the mentality aspect.
+
+
+! [this is the photo](1.jpg)
