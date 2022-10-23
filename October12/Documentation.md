@@ -4,7 +4,15 @@
 
 [![Watch the video](https://img.youtube.com/vi/lj89D_hT-GI/maxresdefault.jpg)](https://youtube.com/shorts/lj89D_hT-GI?feature=share)
 
-This is our code: 
+# Observation:
+
+I found the speech from the film "Rocky Balboa" and decided to use this to accompany our robot's performance (you can watch the clip online: https://youtu.be/5JAHAFvcr2o). This is not only because we think that it is a very inspirational speech and we like it a lot, but also because some of the scripts in it can be easily realized, such as "hit", "move forward". 
+
+Before we shot the video, we were thinking about how to realize the "hit" scene, is it better for us to show up in the scene and hit the robot or control the robot to let it hit something? In the end, we decided to choose the latter. This is because we think it is important to showcase that we can control the robot remotely and smoothly. 
+
+When we are controlling the robot, we utilize the big spin button to make the robot turn left and right, the small spin button to stop and start the robot, and the press button to make the robot move forward and backward. We think that this works well, but still there are still some spaces for us to improve. First, when we want to operate the robot to walk forward/backward and left/right at the same time, there will always be a pause between these two sets of actions. Though this doesn't bother us to shoot the video, we still do want to eliminate the pause and to realize the smooth transition between the two sets of movements.
+
+# Our code: 
 
 <pre>
 <font color="#5e6d03">#include</font> <font color="#434f54">&lt;</font><font color="#000000">EnableInterrupt</font><font color="#434f54">.</font><font color="#000000">h</font><font color="#434f54">&gt;</font>
