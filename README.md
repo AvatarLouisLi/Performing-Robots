@@ -5,5 +5,5 @@ This is the repository for Performing Robots taught by Prof. Michale Shiloh at N
 
 *1*
 
-![this is the image](1.jpg)
+![Group photo](3.jpg)
 
