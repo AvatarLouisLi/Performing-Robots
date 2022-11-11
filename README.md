@@ -1,5 +1,5 @@
 # Performing-Robots
-This is the repository for Performing Robots taught in NYU Abu Dhabi, Fall 2022
+This is the repository for Performing Robots taught by Prof. Michale Shiloh at NYU Abu Dhabi, Fall 2022
 
 **1**
 
