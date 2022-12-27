@@ -13,3 +13,7 @@
 ![7](control%20panel_components.jpg)
 ![8](control%20panel_top.jpg)
 ![9](Mike%2C%20disgust%20and%20fear.jpg)
+
+[link to Neopixel eyes and mouth movements](https://youtube.com/shorts/a2p6DBFBKYo?feature=share)
+[link to driving test](https://youtube.com/shorts/xnVn3LCugeI?feature=share)
+[link to driving test 2 with arm movements and neopixel shining](https://youtube.com/shorts/zRBCf2FtASI?feature=share)
